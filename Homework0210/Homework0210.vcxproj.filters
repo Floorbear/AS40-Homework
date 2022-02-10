@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Contents">
+      <UniqueIdentifier>{0fd53d48-c488-4f99-89b3-506a14de1056}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ConsoleGlobalInst.cpp" />
+    <ClCompile Include="ConsoleMath.cpp" />
+    <ClCompile Include="ConsoleObject.cpp" />
+    <ClCompile Include="ConsoleScreen.cpp" />
+    <ClCompile Include="Monster.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="TextScreen.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ConsoleGlobalInst.h" />
+    <ClInclude Include="ConsoleMath.h" />
+    <ClInclude Include="ConsoleObject.h" />
+    <ClInclude Include="Monster.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="TextScreen.h" />
+  </ItemGroup>
+</Project>
