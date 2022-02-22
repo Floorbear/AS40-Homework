@@ -17,7 +17,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework0211", "Homework021
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework0215", "Homework0215\Homework0215.vcxproj", "{7815355C-0B23-4A6E-838F-B413973F077C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework0221", "Snake\Snake.vcxproj", "{050BA1F7-93E2-48D6-AD59-09EC8EF82049}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework0221", "snake\Snake.vcxproj", "{050BA1F7-93E2-48D6-AD59-09EC8EF82049}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework0222", "Homework0222\Vector.vcxproj", "{C0004652-CE61-4B8D-889A-DB17A6E12C83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,14 @@ Global
 		{050BA1F7-93E2-48D6-AD59-09EC8EF82049}.Release|x64.Build.0 = Release|x64
 		{050BA1F7-93E2-48D6-AD59-09EC8EF82049}.Release|x86.ActiveCfg = Release|Win32
 		{050BA1F7-93E2-48D6-AD59-09EC8EF82049}.Release|x86.Build.0 = Release|Win32
+		{C0004652-CE61-4B8D-889A-DB17A6E12C83}.Debug|x64.ActiveCfg = Debug|x64
+		{C0004652-CE61-4B8D-889A-DB17A6E12C83}.Debug|x64.Build.0 = Debug|x64
+		{C0004652-CE61-4B8D-889A-DB17A6E12C83}.Debug|x86.ActiveCfg = Debug|Win32
+		{C0004652-CE61-4B8D-889A-DB17A6E12C83}.Debug|x86.Build.0 = Debug|Win32
+		{C0004652-CE61-4B8D-889A-DB17A6E12C83}.Release|x64.ActiveCfg = Release|x64
+		{C0004652-CE61-4B8D-889A-DB17A6E12C83}.Release|x64.Build.0 = Release|x64
+		{C0004652-CE61-4B8D-889A-DB17A6E12C83}.Release|x86.ActiveCfg = Release|Win32
+		{C0004652-CE61-4B8D-889A-DB17A6E12C83}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
